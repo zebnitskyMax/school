@@ -7,4 +7,7 @@
 ### ability  
 1. VSCode  
 1. Git  
-1. **something else**
+1. **something else**  
+
+### English  
+**pre-intermediate**
