@@ -1,0 +1,44 @@
+body {
+    padding: 0;
+    margin: 0 auto;
+    font-family: "Times New Roman", Times, serif;
+    /* width: 1024px; */
+    background-image: linear-gradient(to left, grey, white);
+}
+
+.wrapper {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+.title-name {
+    display: inline-block;
+    margin-top: 30px;
+    margin-bottom: -45px;
+}
+
+.title-name h1 {
+    float: left;
+    margin-right: 150px;
+}
+
+.avatarka {
+    width: 128px;
+    height: 100px;
+    float: left;
+    border: 1px solid gray;
+    border-radius: 50%;
+}
+header{
+    padding-left: 40px;
+}
+main{
+    padding-left: 40px;
+}
+
+.ul-education{
+    line-height: 5px;
+}
+p{
+    line-height: 5px;
+}
